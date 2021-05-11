@@ -132,8 +132,13 @@ body {
     position: absolute;
     box-sizing: border-box;
     border: 5px rgb(126, 190, 126) solid;
+<<<<<<< HEAD
     background: url(../photos/20210502_170024262_iOS.jpg) no-repeat center / cover;
     opacity: 0;
+=======
+    opacity: 0;
+    background: url(../photos/20210502_170024262_iOS.jpg) no-repeat center / cover;
+>>>>>>> 82b84f67484d694b3b2ab6cd4bd38cbc4772d602
     transition: ease-in-out 5s;
     -webkit-transform: rotate(45deg);
             transform: rotate(45deg);
