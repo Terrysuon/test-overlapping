@@ -11,6 +11,16 @@ body {
                   Helvetica, Arial, Ubuntu, sans-serif,
                   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     }
+    nav{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      padding: 20px;
+      background-color: aliceblue;
+      position: sticky;
+      top: 0;
+      width: 100%;
+    }
 
     *{
         padding: 0;
